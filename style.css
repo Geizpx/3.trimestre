@@ -2,7 +2,7 @@ url('https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,opsz,wght@0,6..12
 :root { 
     --bg-color:#343131; 
     --primary-color:#0c0700; 
-    --secundary-color:#7acdee;
+    --secundary-color:#eedd7a;
     --font:"nunito sans", sans-serif; 
 }
      body{ background-color: var(--bg-color);
