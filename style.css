@@ -13,6 +13,7 @@
     }
     header{ background-color: var(--primary-color);
         text-align: center;
+        padding: 1px;
     }
     h1 {
         font-size: 2rem;
@@ -26,5 +27,6 @@
         }
         nav a {
             text-decoration: none;
-            
+            var(--bg-color);
+            margin: 0rem 2rem 3rem 0rem;
         }
