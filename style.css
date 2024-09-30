@@ -31,3 +31,8 @@
             font-size: 12rem;
             margin: 0rem 2rem 3rem 0rem;
         }
+        nav a:hover{
+text-decoration: underline;
+transform: scale();
+        }
+        
